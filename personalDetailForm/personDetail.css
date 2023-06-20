@@ -1,0 +1,35 @@
+#sam{
+    
+    text-align: center;
+    border-style: double;
+    background-color: rgb(136, 225, 195);
+    border-color: rgb(20, 4, 61);
+    border-width: 5px;
+    height: 750px;
+    width: 600px;
+    margin-left: 400px
+}
+#sam1{
+    color: rgb(27, 16, 95);
+    font-style: italic;
+}
+#sam2{
+    font-size: larger;
+}
+#sam3{
+    margin-left: 50px;
+}
+#sam4{
+    color: whitesmoke;
+    background-color: red;
+    font-size: 25px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+#sam5{
+    color: whitesmoke;
+    background-color: rgb(8, 66, 8);
+    font-size: 25px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
